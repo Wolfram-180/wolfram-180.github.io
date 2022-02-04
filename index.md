@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+### Flutter:
 
-You can use the [editor on GitHub](https://github.com/Wolfram-180/wolfram-180.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Learning Flutter now (having scope in becoming cross-platform mobile developer), current level I would define as Junior+
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Flutter apps and Python projects (including working Telegram bots) code located at : https://github.com/Wolfram-180
 
-### Markdown
+In Flutter used: main interface composing widgets, Provider, http, JSON, Firebase
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Flutter developer diploma received at Ufa (State University of Russian Federation): 
 
-```markdown
-Syntax highlighted code block
+Published Flutter app: https://play.google.com/store/apps/details?id=com.wolfram180.noise_meter_app.noise_meter_app
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Computer Science 
+...learning at International University of Applied Sciences ( iu.de , at 2nd semester now).
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Overall experience in IT:
 
-[Link](url) and ![Image](src)
-```
+Experience in Python backends using Flask, bots using aiogram
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Experience in databases: +10 years working with Firebird, MySQL, Oracle (T-SQL)
 
-### Jekyll Themes
+Several years programming in Delphi + Firebird (2006 - 2012)...
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Wolfram-180/wolfram-180.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Experienced (more than 5 years) in: ITSM, Infra & Services control, Projects & Changes implementation, Budgeting (planning, controlling), Procurements.
