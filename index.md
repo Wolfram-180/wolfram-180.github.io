@@ -4,7 +4,7 @@ Learning Flutter now (having scope in becoming cross-platform mobile developer),
 
 Flutter apps and Python projects (including working Telegram bots) code located at : [GitHub Rep](https://github.com/Wolfram-180) 
 
-Almost done [Udemy Flutter & Dart - The Complete Guide] (https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps)
+
 
 In Flutter used: main interface composing widgets, Provider, http, JSON, Firebase
 
