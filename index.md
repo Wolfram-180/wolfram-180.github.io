@@ -14,6 +14,8 @@ Published Flutter app: [Noise Meter](https://play.google.com/store/apps/details?
 ### Computer Science 
 ...learning at International University of Applied Sciences ( iu.de , at 2nd semester now).
 
+### [ITIL Foundation Certified](https://drive.google.com/file/d/13DNffOUG14LXSHrLnjlOAhN5_VqLJis7/view?usp=sharing) 
+
 
 ### Overall experience in IT:
 
