@@ -25,4 +25,4 @@ Several years programming in Delphi + Firebird (2006 - 2012)...
 
 Experienced (more than 5 years) in: ITSM, Infra & Services control, Projects & Changes implementation, Budgeting (planning, controlling), Procurements.
 
-<img title="foto" alt="foto" src="/files/serg.jpg">
+<img title="foto" alt="foto" src="/docs/assets/images/serg.jpg">
