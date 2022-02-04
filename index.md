@@ -4,6 +4,8 @@ Learning Flutter now (having scope in becoming cross-platform mobile developer),
 
 Flutter apps and Python projects (including working Telegram bots) code located at : [GitHub Rep](https://github.com/Wolfram-180) 
 
+Almost done [Udemy Flutter & Dart - The Complete Guide] (https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
+
 In Flutter used: main interface composing widgets, Provider, http, JSON, Firebase
 
 Flutter developer diploma received at Ufa (State University of Russian Federation): [Diploma](https://github.com/Wolfram-180/wolfram-180.github.io/blob/main/docs/assets/pdfs/Flutter%20Developer%20-%20S.%20Ulvis%20-%20Diploma%20_rotated.pdf) [Diploma Details 1](https://github.com/Wolfram-180/wolfram-180.github.io/blob/main/docs/assets/pdfs/Flutter%20Developer%20-%20S.%20Ulvis%20-%20Diploma-%20Details1.pdf) [Diploma Details 2](https://github.com/Wolfram-180/wolfram-180.github.io/blob/main/docs/assets/pdfs/Flutter%20Developer%20-%20S.%20Ulvis%20-%20Diploma-%20Details2.pdf)
