@@ -12,8 +12,6 @@ Published Flutter apps:
 [Noise Meter](https://play.google.com/store/apps/details?id=com.wolfram180.noise_meter_app.noise_meter_app) 
 
 
-### [ITIL Foundation Certified](https://drive.google.com/file/d/13DNffOUG14LXSHrLnjlOAhN5_VqLJis7/view?usp=sharing) 
-
 ### Skills:
 
 Flutter : composing widgets, Provider, http, JSON, Firebase, Stream/Future
@@ -33,6 +31,8 @@ Main role: 2014 - till now: ITSM, Infra & Services control, Projects & Changes i
 
 2006 - 2012 : developer (Delphi + Firebird /  MSSQL / Oracle)
 
-### Good English and soft-skills embedded
+#### [ITIL Foundation Certified](https://drive.google.com/file/d/13DNffOUG14LXSHrLnjlOAhN5_VqLJis7/view?usp=sharing)
+
+### Good English and soft-skills
 
 ### How to reach me : sergei.ulvis@gmail.com
