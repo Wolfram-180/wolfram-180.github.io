@@ -1,34 +1,41 @@
 ### Flutter:
 
-Learning Flutter now (having scope in becoming cross-platform mobile developer), current level I would define as Junior+
+Target Stack: Flutter_(front) + ( Firestore / ( Flask_MySQL ))
 
-Flutter apps and Python projects (including working Telegram bots) code located at : [GitHub Rep](https://github.com/Wolfram-180) 
+Flutter / Python apps (including Telegram bots(online now)) code located at : [GitHub Rep](https://github.com/Wolfram-180) 
 
-Ending up course, 90% done [Udemy Flutter & Dart - The Complete Guide](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps)
+Made [Udemy Flutter & Dart - The Complete Guide](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps)
 
-In Flutter used: main interface composing widgets, Provider, http, JSON, Firebase
+[Cross-platform Flutter dev (Russia State Uni course)](https://github.com/Wolfram-180/wolfram-180.github.io/blob/main/docs/assets/pdfs/Flutter%20Developer%20-%20S.%20Ulvis%20-%20Diploma%20_rotated.pdf) 
 
-Flutter developer diploma received at Ufa (State University of Russian Federation): [Diploma](https://github.com/Wolfram-180/wolfram-180.github.io/blob/main/docs/assets/pdfs/Flutter%20Developer%20-%20S.%20Ulvis%20-%20Diploma%20_rotated.pdf) [details 1](https://github.com/Wolfram-180/wolfram-180.github.io/blob/main/docs/assets/pdfs/Flutter%20Developer%20-%20S.%20Ulvis%20-%20Diploma-%20Details1.pdf) [details 2](https://github.com/Wolfram-180/wolfram-180.github.io/blob/main/docs/assets/pdfs/Flutter%20Developer%20-%20S.%20Ulvis%20-%20Diploma-%20Details2.pdf)
+Published Flutter apps: 
+[Noise Meter](https://play.google.com/store/apps/details?id=com.wolfram180.noise_meter_app.noise_meter_app) 
 
-Published Flutter app: [Noise Meter](https://play.google.com/store/apps/details?id=com.wolfram180.noise_meter_app.noise_meter_app) 
 
+### [ITIL Foundation Certified](https://drive.google.com/file/d/13DNffOUG14LXSHrLnjlOAhN5_VqLJis7/view?usp=sharing) 
 
 ### Computer Science 
 ...learning at International University of Applied Sciences ( iu.de , at 2nd semester now).
 
-### [ITIL Foundation Certified](https://drive.google.com/file/d/13DNffOUG14LXSHrLnjlOAhN5_VqLJis7/view?usp=sharing) 
+### Skills:
+
+Flutter : composing widgets, Provider, http, JSON, Firebase
+
+Python : backends on Flask (REST API, JSON), Telegram bots (aiogram, MySQL)
+
+DBs : Firestore (since 2021) / +10 years working with MySQL, Firebird, (MSSQL, Oracle (T-SQL))
 
 
-### Overall experience in IT:
+### Prof. timeline:
 
-Experience in Python backends using Flask, bots using aiogram
+Main role: 2014 - till now: ITSM, Infra & Services control, Projects & Changes implementation, Budgeting (planning, controlling), Procurements.
 
-Experience in databases: +10 years working with Firebird, MySQL, Oracle (T-SQL)
+2020 - till now: Flutter dev
 
-Several years programming in Delphi + Firebird (2006 - 2012)...
+2012 - 2014 : PM (Projects & Changes implementation)
 
-Experienced (more than 5 years) in: ITSM, Infra & Services control, Projects & Changes implementation, Budgeting (planning, controlling), Procurements.
+2006 - 2012 : developer (Delphi + Firebird /  MSSQL / Oracle)
 
-### Good English and soft-skills embedded ))
+### Good English and soft-skills embedded
 
 ### How to reach me : sergei.ulvis@gmail.com
