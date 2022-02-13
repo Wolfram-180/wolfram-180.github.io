@@ -14,9 +14,6 @@ Published Flutter apps:
 
 ### [ITIL Foundation Certified](https://drive.google.com/file/d/13DNffOUG14LXSHrLnjlOAhN5_VqLJis7/view?usp=sharing) 
 
-### Computer Science 
-...learning at International University of Applied Sciences ( iu.de , at 2nd semester now).
-
 ### Skills:
 
 Flutter : composing widgets, Provider, http, JSON, Firebase
