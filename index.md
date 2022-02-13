@@ -33,6 +33,6 @@ Main role: 2014 - till now: ITSM, Infra & Services control, Projects & Changes i
 
 #### [ITIL Foundation Certified](https://drive.google.com/file/d/13DNffOUG14LXSHrLnjlOAhN5_VqLJis7/view?usp=sharing)
 
-### Good English and soft-skills
+### Fluent English, good soft-skills
 
 ### How to reach me : sergei.ulvis@gmail.com
