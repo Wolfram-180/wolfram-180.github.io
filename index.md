@@ -1,6 +1,6 @@
 ### Flutter & Python:
 
-Stack: Flutter_(front) + ( Firestore / ( Flask_MySQL ))_back
+Stack: Flutter_(front) + (Firestore / (Flask_MySQL))_back
 
 Flutter / Python apps (including Telegram bots(online now)) code located at : [GitHub Rep](https://github.com/Wolfram-180) 
 
@@ -29,7 +29,7 @@ Main role: 2014 - till now: ITSM, Infra & Services control, Projects & Changes i
 
 2012 - 2014 : PM (Projects & Changes implementation)
 
-2006 - 2012 : developer (Delphi + Firebird /  MSSQL / Oracle)
+2006 - 2012 : developer (Delphi + Firebird / MSSQL / Oracle)
 
 #### [ITIL Foundation Certified](https://drive.google.com/file/d/13DNffOUG14LXSHrLnjlOAhN5_VqLJis7/view?usp=sharing)
 
