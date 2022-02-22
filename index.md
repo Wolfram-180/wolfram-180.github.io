@@ -25,9 +25,9 @@ DBs : Firestore (since 2021) / +10 years working with MySQL, Firebird, (MSSQL, O
 
 ### Prof. timeline:
 
-Main role: 2014 - till now: ITSM, Infra & Services control, Projects & Changes implementation, Budgeting (planning, controlling), Procurements.
-
 2020 - till now: Flutter dev
+
+(main work): 2014 - till now: ITSM, Infra & Services control, Projects & Changes implementation, Budgeting (planning, controlling), Procurements
 
 2012 - 2014 : PM (Projects & Changes implementation)
 
