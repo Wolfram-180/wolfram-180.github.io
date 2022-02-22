@@ -2,7 +2,7 @@
 
 Stack: Flutter_(front) + (Firestore / (Flask_MySQL))_back
 
-Flutter / Python apps (including Telegram bots(online now)) code located at : [GitHub Rep](https://github.com/Wolfram-180) 
+Flutter / Python apps (including Telegram bots(online now)) code located at : [GitHub Rep](https://github.com/Wolfram-180?tab=repositories) 
 
 Made [Udemy Flutter & Dart - The Complete Guide](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps)
 
