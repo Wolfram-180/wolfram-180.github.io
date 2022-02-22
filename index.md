@@ -14,7 +14,8 @@ Published Flutter apps:
 
 ### Skills:
 
-Flutter : composing widgets, Provider, http, JSON, Firebase, Stream/Future
+Flutter : composing widgets, Provider, http, JSON, Firebase, Stream/Future; 
+Used in apps: Observer, MediaQuery, Platform.isIOS, SingleChildScrollView, Flexible, 
 
 Python : backends on Flask (REST API, JSON), Telegram bots (aiogram, MySQL)
 
