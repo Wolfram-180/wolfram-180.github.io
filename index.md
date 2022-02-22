@@ -16,7 +16,7 @@ Published Flutter apps:
 
 Flutter : composing widgets, Provider, http, JSON, Firebase, Stream/Future, sqflite, MethodChannel;
 
-Used in Flutter apps: Observer, MediaQuery, Platform.isIOS, SingleChildScrollView, Flexible, TabController, 
+Used in Flutter apps: Observer, MediaQuery, Platform.isIOS, SingleChildScrollView, Flexible, TabController, StreamBuilder/FutureBuilder, ImageProvider, FirebaseMessaging
 
 Python : backends on Flask (REST API, JSON), Telegram bots (aiogram, MySQL)
 
