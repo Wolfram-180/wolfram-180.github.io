@@ -33,7 +33,7 @@ DBs : Firestore (since 2021) / +10 years working with MySQL, Firebird, (MSSQL, O
 
 2006 - 2012 : developer (Delphi + Firebird / MSSQL / Oracle)
 
-#### [ITIL Foundation Certified](https://drive.google.com/file/d/13DNffOUG14LXSHrLnjlOAhN5_VqLJis7/view?usp=sharing)
+[ITIL Foundation Certified](https://drive.google.com/file/d/13DNffOUG14LXSHrLnjlOAhN5_VqLJis7/view?usp=sharing)
 
 ### Fluent English, good soft-skills
 
