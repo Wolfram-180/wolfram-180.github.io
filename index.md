@@ -23,16 +23,6 @@ Python : backends on Flask (REST API, JSON), Telegram bots (aiogram, MySQL)
 DBs : Firestore (since 2021) / +10 years working with MySQL, Firebird, (MSSQL, Oracle (T-SQL))
 
 
-### Prof. timeline:
-
-2020 - till now: Flutter dev
-
-(main work): 2014 - till now: ITSM, Infra & Services control, Projects & Changes implementation, Budgeting (planning, controlling), Procurements
-
-2012 - 2014 : PM (Projects & Changes implementation)
-
-2006 - 2012 : developer (Delphi + Firebird / MSSQL / Oracle)
-
 [ITIL Foundation Certified](https://drive.google.com/file/d/13DNffOUG14LXSHrLnjlOAhN5_VqLJis7/view?usp=sharing)
 
 ### Fluent English, good soft-skills
