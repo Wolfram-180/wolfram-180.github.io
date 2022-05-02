@@ -5,7 +5,7 @@ Flutter-front, Firestore/Flask_MySQL - back
 
 ---
 
-Flutter / Python apps (including Telegram bots(online now)) code 
+Flutter / Python apps (including active Telegram bots) code 
 located at : [GitHub Rep](https://github.com/Wolfram-180?tab=repositories) 
 
 ---
