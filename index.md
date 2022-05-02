@@ -1,4 +1,4 @@
-### Flutter & Python:
+Hi there, just some info -
 
 Stack: 
 Flutter-front, Firestore/Flask_MySQL - back
