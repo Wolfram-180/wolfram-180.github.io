@@ -1,6 +1,6 @@
 ### Flutter & Python:
 
-##Stack: 
+Stack: 
 Flutter-front, Firestore/Flask_MySQL - back
 ---
 
