@@ -23,7 +23,7 @@ Sande J. - Data Structures & Algorithms in Dart (1st Edition) - 2022 : [code](ht
 
 ---
 
-###### Learning now:
+###### Learning now :
 [Flutter Developer by Surf](https://education.surf.ru/)
 ---
 
