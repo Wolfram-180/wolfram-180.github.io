@@ -17,13 +17,15 @@ Katz M., Moore K., Ngo V. - Flutter Apprentice (2nd Edition) - 2021
 
 Alessandria S., Kayfitz B. - Flutter Cookbook - 2021
 
+Sande J. - Data Structures & Algorithms in Dart (1st Edition) - 2022 : [code](https://github.com/Wolfram-180/dart_data_structs_and_algorithms) - Queues, Trees (binary, AVL, Tries), Heaps, Sortings (Radix, Heap, Quick), Graphs, Dijkstra
+
 [Cross-platform Flutter dev (Russia State Uni course)](https://github.com/Wolfram-180/wolfram-180.github.io/blob/main/docs/assets/pdfs/Flutter%20Developer%20-%20S.%20Ulvis%20-%20Diploma%20_rotated.pdf)
 
 ---
 
-###### Reading now:
-Sande J. - Data Structures & Algorithms in Dart (1st Edition) - 2022
+###### Learning now:
 
+[Flutter Developer by Surf] (https://education.surf.ru/)
 ---
 
 ###### Published Flutter apps: 
