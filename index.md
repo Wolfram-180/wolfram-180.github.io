@@ -1,4 +1,4 @@
-Hi there, just some info -
+Hi there, 
 
 ##### Stack: 
 Front: Flutter
