@@ -1,7 +1,9 @@
 Hi there, just some info -
 
 ##### Stack: 
-Flutter-front, Firestore/Flask_MySQL - back
+Front: Flutter
+Back: Flask
+DB: Firebase / MySQL
 
 ---
 
