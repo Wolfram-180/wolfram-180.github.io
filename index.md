@@ -1,4 +1,4 @@
-Hi there, 
+Hi there, my name is Sergei Ulvis
 
 ##### Stack: 
 Front: Flutter
