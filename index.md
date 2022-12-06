@@ -2,7 +2,9 @@ Hi there,
 
 ##### Stack: 
 Front: Flutter
+
 Back: Flask
+
 DB: Firebase / MySQL
 
 ---
@@ -27,7 +29,7 @@ Sande J. - Data Structures & Algorithms in Dart (1st Edition) - 2022 : [code](ht
 
 ###### Learning now :
 
-[IU Bachelor of Computer Science](https://www.iu.de/en/bachelor/computer-science) 2nd semester
+[IU Bachelor of Computer Science](https://www.iu.de/en/bachelor/computer-science) 3rd semester
 
 [Flutter Developer by Surf](https://education.surf.ru/) 
 
